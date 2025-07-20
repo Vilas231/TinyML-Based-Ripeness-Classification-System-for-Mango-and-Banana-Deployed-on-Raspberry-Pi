@@ -1,0 +1,2 @@
+# TinyML-Based-Ripeness-Classification-System-for-Mango-and-Banana-Deployed-on-Raspberry-Pi
+This project uses TinyML on a Raspberry Pi to classify mango and banana ripeness in real time. Images captured by the Pi camera are processed using HSV segmentation and passed through lightweight TFLite models. Results are displayed instantly offline, achieving 99.30% accuracy for mango and 99% for banana.          Ask ChatGPT
